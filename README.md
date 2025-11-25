@@ -1,2 +1,1 @@
-# algorithm
-store algorithm
+算法仓库
